@@ -1,5 +1,5 @@
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img.png](resources/img.png)
+![img_1.png](resources/img_1.png)
 
 - Q: When do we use a singleton?
 - A: We use a singleton when we need to control the number of instances that can be created, and to provide a global point of access to the object.

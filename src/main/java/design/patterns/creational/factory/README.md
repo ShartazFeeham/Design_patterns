@@ -1,5 +1,5 @@
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img.png](resources/img.png)
+![img_1.png](resources/img_1.png)
 - Q: What is different between Factory Method and Abstract Factory?
 - A: Factory Method is a method that creates objects, while Abstract Factory is an object that creates objects.
 - Q: When to use Factory Method?
